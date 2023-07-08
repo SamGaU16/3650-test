@@ -2,9 +2,9 @@
 ## Classification Exam FISI-3650 - Universidad de los Andes
 ### Samuel Mateo Montañez Gil 202014559
 
-Tensorflow Keras was the library used to training the model.
-OpenCV (cv2) was used for reading the images.
-The dataset was mold to halve the pixels.
+Tensorflow Keras was the library used to training the model.<br />
+OpenCV (cv2) was used for reading the images.<br />
+The dataset was mold to halve the pixels.<br />
 The model:
 - Uses two convolution 2D layers, each have a 'Max Pooling' operation.
 - Uses a Flattens and two Dense layers, the last one for normalize the output.
